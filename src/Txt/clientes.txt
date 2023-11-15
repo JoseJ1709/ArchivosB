@@ -1,0 +1,21 @@
+Luis García/123/Carrera 10 #30-14/Bogotá
+CA,450000,Bancolombia,MC
+CA,2000000,Davivienda,V
+PC=890
+#
+Alejandra Estrada/456/Calle 15 #20-32/Bogotá
+CA,450000,Bancolombia,MC
+CC,2000000,Davivienda,MC
+TC,5000000,BBVA,AE,C
+PC=340
+#
+Ernesto Villamil/789/Carrera 21 #2-3/Medellín
+CA,4500000,Davivienda
+TC,5000000,Davivienda,V,G
+PC=900
+#
+Luisa Mejia/1011/Calle 15 #20-32/Medellín
+CC,2000000,BBVA
+TC,5000000,BBVA,MC,C
+PC=340
+FIN

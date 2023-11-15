@@ -1,0 +1,25 @@
+123 - Luis García - Bogotá
+Cuentas bancarias
+CA - Bancolombia - MC - 
+CA - Davivienda - V - 
+Reporte: 890 - excelente
+#
+456 - Alejandra Estrada - Bogotá
+Cuentas bancarias
+CA - Bancolombia - MC - 
+CC - Davivienda - MC - 
+TC - BBVA - AE - C, AE - C
+Reporte: 340 - regular
+#
+789 - Ernesto Villamil - Medellín
+Cuentas bancarias
+CA - Davivienda -  - 
+TC - Davivienda - V - G, V - G
+Reporte: 900 - excelente
+#
+1011 - Luisa Mejia - Medellín
+Cuentas bancarias
+CC - BBVA -  - 
+TC - BBVA - MC - C, MC - C
+Reporte: 340 - regular
+#
